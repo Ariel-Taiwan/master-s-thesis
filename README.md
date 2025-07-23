@@ -4,6 +4,7 @@ Multi-Label TTP Annotation for Attacker Command Sequences in AD Honeypots using 
 
 程式：
 reconsturct_attack_chain_all_folder's_evtx_v7.py: 重建進程鏈.py
+
 preprocessing_addtoken_Focalloss.py: 訓練程式碼，微調版的CySecBert.py
 
 analysis_all_in_one_4_graphs.py: 畫出訓練成果圖，如下：
