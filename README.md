@@ -6,6 +6,8 @@ reconsturct_attack_chain_all_folder's_evtx_v7.py: 重建進程鏈.py
 
 preprocessing_addtoken_Focalloss.py: 訓練程式碼，微調版的CySecBert.py
 
+attack_TS_summary_v6.py: 計算攻擊TTP嚴重度分數.py
+
 analysis_all_in_one_4_graphs.py: 畫出訓練成果圖，如下：
 
 <img width="970" height="574" alt="Six" src="https://github.com/user-attachments/assets/2f766e88-81a2-44cd-b449-38ff6d00e353" />
